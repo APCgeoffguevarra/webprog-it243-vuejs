@@ -5,3 +5,19 @@
       font-size: x-large;
       background-color: orangered;
     }
+/*grid*/
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 80px 100px 80px;  
+  background-color: rgb(8, 8, 8);
+  padding: 5px;
+  gap: 5px;  
+}
+.container div {
+  background-color: #9a979733;
+  color:#000;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
