@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+<template>
 <head>
   <title>My first Vue page</title>
  
@@ -63,3 +62,4 @@
   </div>
 
 </div>
+</template>
